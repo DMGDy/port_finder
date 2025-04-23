@@ -1,0 +1,60 @@
+(Not all processes could be identified, non-owned process info
+will not be shown, you would have to be root to see it all.)
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:53184         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:52193         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:57347         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:51240         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:51701         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:50929         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:50862         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:50700         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:58470         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:50167         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:57529         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:8200          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:8201          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:56930         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:56502         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:56724         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:55023         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:3022            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:55701         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:55023         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:55097         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 192.168.11.3:443        0.0.0.0:*               LISTEN      -                   
+tcp        0      0 192.168.11.3:444        0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:54215         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 ::1:55097               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:54788               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:54215               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:56724               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:56502               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:56930               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:55701               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:55966               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:58470               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:50929               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:50862               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:50700               :::*                    LISTEN      -                   
+tcp6       0      0 :::3022                 :::*                    LISTEN      -                   
+tcp6       0      0 ::1:50439               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:51684               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:55023                 :::*                    LISTEN      -                   
+tcp6       0      0 ::1:e3184               :::*                    LISTEN      -                   
+tcp6       0      0 :::1203                 :::*                    LISTEN      -                   
+tcp6       0      0 ::1:52954               :::*                    LISTEN      -                   
+
+tcp6       0      0 ::1:51240               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:52195               :::*                    LISTEN      -                   
+tcp6       0      0 ::1:52193               :::*                    LISTEN      -                   
+tcp6       0      0 :::22                   :::*                    LISTEN      -                   
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:39647           0.0.0.0:*                           -                   
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           -                   
+udp6       0      0 :::42926                :::*                                -                   
+udp6       0      0 :::5353                 :::*                                -                   
